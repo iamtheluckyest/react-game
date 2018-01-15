@@ -1,0 +1,13 @@
+header {
+  height: 250px;
+}
+
+.row {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+img {
+  width: 100%;
+}
